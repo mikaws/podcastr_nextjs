@@ -1,0 +1,4 @@
+yarn start: next in production
+yarn dev: next in development
+
+yarn server: json server
